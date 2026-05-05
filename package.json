@@ -1,0 +1,13 @@
+{
+  "name": "tiksave",
+  "version": "1.0.0",
+  "description": "TikTok Downloader - No Watermark",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT"
+}
